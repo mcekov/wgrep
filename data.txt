@@ -1,0 +1,4 @@
+new line
+hello
+test
+42 ==== is the answer of everything...
